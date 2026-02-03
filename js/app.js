@@ -278,7 +278,7 @@ signupForm?.addEventListener('submit', (e) => {
     setTimeout(() => {
         showMessage('Account created successfully! Redirecting...', 'success');
         setTimeout(() => {
-            window.location.href = 'user-dashboard.html';
+            window.location.href = 'index.html';
         }, 1500);
     }, 1500);
 });
