@@ -19,9 +19,7 @@ A modern web-based Laundry Management System designed to simplify laundry operat
 - HTML5  
 - CSS3  
 - JavaScript  
-- Bootstrap  
-- PHP / Django / Node.js *(choose what applies)*  
-- MySQL  
+ 
 
 
 ## Live Demo
