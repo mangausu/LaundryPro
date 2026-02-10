@@ -4,7 +4,7 @@ A modern web-based Laundry Management System designed to simplify laundry operat
 
 ---
 
-## 🔥 Features
+##  Features
 
 - Customer registration & login  
 - Laundry order booking  
@@ -32,7 +32,7 @@ A modern web-based Laundry Management System designed to simplify laundry operat
 
 ##  Live Demo
 
-https://your-username.github.io/repository-name/
+https://mangausu.github.io/LaundryPro/
 
 ---
 
